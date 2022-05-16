@@ -23,23 +23,26 @@
                        </div>
                             <div class="col-sm-5 mb20">
                                 <ul id="image-gallery" class="gallery list-unstyled cS-hidden">
-                                        <li data-thumb="{{asset('images/Rooms/Balcony Hotel_ Family Room.jpg')}}">
-                                            <img src="{{asset('images/Rooms/Balcony Hotel_ Family Room.jpg')}}" class="img-responsive">
+                                        <li data-thumb="{{asset('images/Rooms/King Family Suite- Balcony B (2).jpg')}}">
+                                            <img src="{{asset('images/Rooms/King Family Suite- Balcony B (2).jpg')}}" class="img-responsive">
                                         </li>
-                                        <li data-thumb="{{asset('images/Rooms/Balcony Hotel_ Superior City View Twin (2).jpg')}}">
-                                            <img src="{{asset('images/Rooms/Balcony Hotel_ Superior City View Twin (2).jpg')}}" class="img-responsive">
+                                        <li data-thumb="{{asset('images/Rooms/King Family Suite- Balcony B (3).jpg')}}">
+                                            <img src="{{asset('images/Rooms/King Family Suite- Balcony B (3).jpg')}}" class="img-responsive">
                                         </li>
-                                        <li data-thumb="{{asset('images/Rooms/Balcony Hotel_ Family Room.jpg')}}">
-                                            <img src="{{asset('images/Rooms/Balcony Hotel_ Family Room.jpg')}}" class="img-responsive">
+                                        <li data-thumb="{{asset('images/Rooms/King Family Suite- Balcony B (4).jpg')}}">
+                                            <img src="{{asset('images/Rooms/King Family Suite- Balcony B (4).jpg')}}" class="img-responsive">
                                         </li>
-                                        <li data-thumb="{{asset('images/Rooms/Balcony Hotel_ Superior City View Twin (2).jpg')}}">
-                                            <img src="{{asset('images/Rooms/Balcony Hotel_ Superior City View Twin (2).jpg')}}" class="img-responsive">
+                                        <li data-thumb="{{asset('images/Rooms/King Family Suite- Balcony B (5).jpg')}}">
+                                            <img src="{{asset('images/Rooms/King Family Suite- Balcony B (5).jpg')}}" class="img-responsive">
                                         </li>
-                                        <li data-thumb="{{asset('images/Rooms/Balcony Hotel_ Family Room.jpg')}}">
-                                            <img src="{{asset('images/Rooms/Balcony Hotel_ Family Room.jpg')}}" class="img-responsive">
+                                        <li data-thumb="{{asset('images/Rooms/King Family Suite- Balcony B (6).jpg')}}">
+                                            <img src="{{asset('images/Rooms/King Family Suite- Balcony B (6).jpg')}}" class="img-responsive">
                                         </li>
-                                        <li data-thumb="{{asset('images/Rooms/Balcony Hotel_ Superior City View Twin (2).jpg')}}">
-                                            <img src="{{asset('images/Rooms/Balcony Hotel_ Superior City View Twin (2).jpg')}}" class="img-responsive">
+                                        <li data-thumb="{{asset('images/Rooms/King Family Suite- Balcony B (7).jpg')}}">
+                                            <img src="{{asset('images/Rooms/King Family Suite- Balcony B (7).jpg')}}" class="img-responsive">
+                                        </li>
+                                        <li data-thumb="{{asset('images/Rooms/King Family Suite- Balcony B (8).jpg')}}">
+                                            <img src="{{asset('images/Rooms/King Family Suite- Balcony B (8).jpg')}}" class="img-responsive">
                                         </li>
                                 </ul>
                             </div>

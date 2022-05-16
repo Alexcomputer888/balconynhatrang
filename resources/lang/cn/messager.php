@@ -12,7 +12,7 @@ return [
     | has failed, such as for an invalid token or invalid new password.
     |
     */
-    'languge' => 'Tiếng việt',
+    'languge' => '简体中文',
     //menu
     'HOTEL OVERVIEW' => 'GIỚI THIỆU',
     'ACCOMMODATION' => 'lOẠI PHÒNG',

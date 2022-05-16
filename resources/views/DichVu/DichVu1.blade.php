@@ -22,7 +22,7 @@
             <div class="container contents mCustomScrollbar _mCS_1 mCS_no_scrollbar" style="margin-top:25px"><div id="mCSB_1" class="mCustomScrollBox mCS-light mCSB_vertical mCSB_inside" tabindex="0" style="max-height: 981px;"><div id="mCSB_1_container" class="mCSB_container mCS_y_hidden mCS_no_scrollbar_y" style="position:relative; top:0; left:0;" dir="ltr">
                 <div class="row">
                         <div class="room-title col-sm-12 mb20">
-                            <h3>Dịch vụ</h3>
+                            <h3>@lang('messager.DV1Title')</h3>
                         </div>
                         <div class="col-sm-5 mb20">
                                 <ul id="image-gallery" class="gallery list-unstyled cS-hidden">
@@ -49,25 +49,7 @@
                             </div>
 
                             <div class="col-sm-7">
-                            <p>Trải nghiệm kỳ nghỉ thư giãn và đáng nhớ tại Khách sạn Balcony Nha Trang. Dừng chân tại khách sạn chúng tôi, du khách sẽ được tận hưởng toàn diện tiện ích và dịch vụ cao cấp sau:</p>
-
-                            <ul>
-                                <li>Nhà hàng và quầy Bar</li>
-                                <li>Phòng họp</li>
-                                <li>Dịch vụ phòng 24/24</li>
-                                <li>Quầy dịch vụ văn phòng</li>
-                                <li>Hồ bơi ngoài trời</li>
-                                <li>Máy tập gym</li>
-                                <li>Thang máy</li>
-                                <li>Kết nối Internet (gồm cả có dây và không dây) miễn phí</li>
-                                <li>Dịch vụ chuyển đổi ngoại tệ</li>
-                                <li>Dịch vụ giặt ủi và sấy khô quần áo</li>
-                                <li>Dịch vụ đặt tour du lịch</li>
-                                <li>Dịch vụ đưa đón bằng xe ô tô</li>
-                                <li>Bãi&nbsp;đậu xe</li>
-                                <li>Dịch vụ bảo đảm an ninh 24/24</li>
-                                <li>Các phòng đều có ban công</li>
-                            </ul>
+                             @lang('messager.DV1Content')
                         </div>
                         <!-- <div class="col-sm-5">
                                 <div class="lSSlideOuter "><div class="lSSlideWrapper usingCss" style="transition-duration: 500ms; transition-timing-function: ease;">

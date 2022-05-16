@@ -6,11 +6,12 @@ use Illuminate\Http\Request;
 
 class HomeController extends Controller
 {
+   
+    // Loại phòng
     public function gotoRoomPage1()
     {
         return view('LoaiPhong.RoomPage1');
     }
-    // Loại phòng
     public function gotoRoomPage2()
     {
         return view('LoaiPhong.RoomPage2');

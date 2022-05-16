@@ -163,7 +163,7 @@
                                     <ul class="nav-cus-menu">
                                         <li  class="active"><a class="" href="/home/overview">{{__('messager.HOTEL OVERVIEW')}}</a></li>
                                         <li  class="">
-                                            <a href="accommodation.html">@lang('messager.ACCOMMODATION')</a>
+                                            <a href="/accommodation">@lang('messager.ACCOMMODATION')</a>
                                             <ul class="ul-nav-child">
                                                                     <li><a href="/room/Deluxe-city-view" title="@lang('messager.ROOM1')">@lang('messager.ROOM1') </a></li>
                                                                     <li><a href="/room/premier-deluxe-city" title="@lang('messager.ROOM2')">@lang('messager.ROOM2')</a></li>

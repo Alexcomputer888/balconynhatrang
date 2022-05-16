@@ -22,7 +22,7 @@
             <div class="container contents mCustomScrollbar _mCS_1 mCS_no_scrollbar" style="margin-top:25px"><div id="mCSB_1" class="mCustomScrollBox mCS-light mCSB_vertical mCSB_inside" tabindex="0" style="max-height: 981px;"><div id="mCSB_1_container" class="mCSB_container mCS_y_hidden mCS_no_scrollbar_y" style="position:relative; top:0; left:0;" dir="ltr">
                 <div class="row">
                         <div class="room-title col-sm-12 mb20">
-                            <h3>Dịch vụ</h3>
+                             <h3>@lang('messager.DV2Title')</h3>
                         </div>
                         <div class="col-sm-5 mb20">
                                 <ul id="image-gallery" class="gallery list-unstyled cS-hidden">
@@ -49,12 +49,7 @@
                             </div>
 
                             <div class="col-sm-7 meeting-content">
-                            <p>Nhà hàng Balcony nằm tại tầng 1 khách sạn với không gian sang trọng theo phong cách Châu Âu hiện đại, phục vụ ăn trưa, tối và buffet sáng.<br>
-                            <br>
-                            Quý khách có thể thưởng thức các món ăn đặc trưng của Việt Nam, Phương Đông và Phương Tây- được chế biến từ những nguyên liệu tươi ngon nhất dưới bàn tay tài hoa của đội ngũ đầu bếp dày dạn kinh nghiệm, phù hợp với các buổi tiệc họp mặt thân mật, tiệc chiêu đãi, tiệc liên hoan,...<br>
-                            <br>
-                            Giờ mở cửa: 6:00 – 22:00 hàng ngày<br>
-                            Sức chứa : 150&nbsp;khách</p>
+                            @lang('messager.DV2Content')
 
                         </div>
 

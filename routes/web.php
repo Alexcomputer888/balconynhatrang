@@ -32,13 +32,18 @@ Route::get('/home/overview', function () {
     return view('GioiThieu.GioiThieu');
 });
 // Loại phòng
+
+Route::get('/accommodation', function () {
+    return view('LoaiPhong.RoomPage');
+});
 Route::get('room/Deluxe-city-view', [HomeController::class, 'gotoRoomPage1']);
 Route::get('room/premier-deluxe-city', [HomeController::class, 'gotoRoomPage2']);
 Route::get('room/senior-deluxe-room', [HomeController::class, 'gotoRoomPage3']);
 Route::get('room/deluxe-family-room', [HomeController::class, 'gotoRoomPage4']);
-Route::get('room/balcony-signature', [HomeController::class, 'gotoRoomPage5']);
-Route::get('room/triple-city-view', [HomeController::class, 'gotoRoomPage6']);
-Route::get('room/king-family-suite', [HomeController::class, 'gotoRoomPage7']);
+Route::get('room/executive-family', [HomeController::class, 'gotoRoomPage5']);
+Route::get('room/balcony-signature', [HomeController::class, 'gotoRoomPage6']);
+Route::get('room/triple-city-view', [HomeController::class, 'gotoRoomPage7']);
+Route::get('room/king-family-suite', [HomeController::class, 'gotoRoomPage8']);
 // Dịch vụ
 
 Route::get('/meeting-function/Services', [HomeController::class, 'Services']);
