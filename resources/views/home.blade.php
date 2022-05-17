@@ -29,7 +29,7 @@
     <div class="logo-image hidden-xs">
         <a><img src="{{ asset('images/files/%5e3488F80CFAD96AD7F1AE8AD207C5295D00E7ECE6010AE108F4%5epimgpsh_fullsize_distr.png') }}" /></a>
     </div>
-    <div class="intro-bayana hidden-xs col-sm-7 col-sm-offset-5 col-md-6 col-md-offset-6 col-lg-5 col-lg-offset-7">
+    <!-- <div class="intro-bayana hidden-xs col-sm-7 col-sm-offset-5 col-md-6 col-md-offset-6 col-lg-5 col-lg-offset-7">
         <div class="row">
                 <div class="PromoSlider flexslider">
                     <ul class="slides">
@@ -56,6 +56,39 @@
                             </li>
                     </ul>
                 </div>
+        </div>
+
+        
+
+
+    </div> -->
+    <div class="intro-bayana hidden-xs col-sm-7 col-sm-offset-5 col-md-6 col-md-offset-6 col-lg-5 col-lg-offset-7">
+        <div class="row">
+                <div class="PromoSlider flexslider">
+                    <ul class="slides">
+                            <li class="flex-active-slide" style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 1; display: block; z-index: 2;">
+                                <div class="">
+                                    <div class="">
+                                        <div class="col-sm-6">
+                                            <div class="">
+                                                <h4>ETERNITY HONEYMOON PACKAGE</h4>
+                                                <p>Gói ưu đãi “Eternity Honeymoon” Package chính là món quà mà Khách sạn Balcony Nha Trang ...</p>
+                                                <p class="text-right"><a href="/promotion/eternity-honeymoon-package">Đọc tiếp</a></p>
+                                            </div>
+
+                                        </div>
+                                        <div class="col-sm-6">
+                                            <div class="row">
+                                                <img src="{{asset('images/files/low-season-package-02.png')}}" title="ETERNITY HONEYMOON PACKAGE" alt="ETERNITY HONEYMOON PACKAGE" class="img-responsive" draggable="false">
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                </div>
+
+                            </li>
+                    </ul>
+                <ul class="flex-direction-nav"><li class="flex-nav-prev"><a class="flex-prev flex-disabled" href="#" tabindex="-1">Previous</a></li><li class="flex-nav-next"><a class="flex-next flex-disabled" href="#" tabindex="-1">Next</a></li></ul></div>
         </div>
 
         

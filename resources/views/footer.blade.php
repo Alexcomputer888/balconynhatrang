@@ -8,7 +8,7 @@
             <div class="col-sm-6 hidden-xs hidden-sm">
 
                 <ul class="follow-us bayana-follow">
-                    <li><a href="contact.html">LIÊN HỆ</a></li>
+                    <li><a href="contact.html"> @lang('messager.CONTACT')</a></li>
                     
                             <li><a href="../www.facebook.com/balconynhatranghotel/index.html" target="_blank"><img src="{{ asset('images/') }}/Logo/resoft-bayana-3_06.png"></a></li>
                             <li><a href="../twitter.com/HotelBalcony.html" target="_blank"><img src="{{ asset('images/') }}/Logo/resoft-bayana-3_08.png"></a></li>
@@ -32,7 +32,7 @@
                             <div class="define mb5"><img src="{{ asset('images/') }}/icon/expand.png" class="pull-right img-expand" style="margin-right:20px"/></div>
                             <div class="define">
                                 <div class="row" style="padding:0 5px;">
-                                    HỖ TRỢ TRỰC TUYẾN
+                                    @lang('messager.SUPPORT ONLINE')
                                    
                                 </div>
                                 

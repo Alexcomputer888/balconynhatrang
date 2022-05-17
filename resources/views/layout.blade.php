@@ -45,18 +45,16 @@
 
 
 
-
-
         </div>
     </body>
-
+    <script type="text/javascript"  src="{{ asset('js/jquery-1.11.3.min.js') }}"></script>
+    <script type="text/javascript" src="{{ asset('js/loader.js') }}"></script>
+    <script type="text/javascript"  src="../maps.googleapis.com/maps/api/js892a?v=3.exp&amp;signed_in=true"></script>
+    <script type="text/javascript"  src="{{ asset('js/jquery-migrate-1.2.1.min.js') }}"></script>
+    <script type="text/javascript"  src="{{ asset('js/bootstrap.min.js') }}"></script>
+    <script type="text/javascript"  src="{{ asset('js/moment.min.js') }}"></script>
+    <script type="text/javascript"  src="{{ asset('js/bootstrap-datetimepicker.min.js') }}"></script>
+    <script type="text/javascript"  src="{{ asset('js/myjsefec.js') }}"></script>
 <!-- Mirrored from www.balconynhatranghotel.com/ by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 10 May 2022 02:41:32 GMT -->
 </html>
-<script src="{{ asset('js/jquery-1.11.3.min.js') }}"></script>
-    <script type="text/javascript" src="../www.gstatic.com/charts/loader.js"></script>
-    <script src="../maps.googleapis.com/maps/api/js892a?v=3.exp&amp;signed_in=true"></script>
-    <script src="{{ asset('js/jquery-migrate-1.2.1.min.js') }}"></script>
-    <script src="{{ asset('js/bootstrap.min.js') }}"></script>
-    <script src="{{ asset('js/moment.min.js') }}"></script>
-    <script src="{{ asset('js/bootstrap-datetimepicker.min.js') }}"></script>
-    <script src="{{ asset('js/myjsefec.js') }}"></script>
+    

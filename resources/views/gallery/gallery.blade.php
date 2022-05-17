@@ -24,7 +24,7 @@
                         </a>
                     </div>
                     <div class="col-sm-4 mb20">
-                        <a href="{{ url('/galleries/galleries/balcony-hotel-restaurant') }}">
+                        <a href="{{ url('/galleries/balcony-hotel-restaurant') }}">
                             <div class="block-contain">
                                 <img src="{{asset('images/Spa-dinning/Balcony%20Hotel_%20Restaurant%20(3).jpg')}}" class="img-responsive">
                                 <h4 style="color:#4F2D55">Balcony Hotel-Restaurant</h4>
@@ -32,7 +32,7 @@
                         </a>
                     </div>
                     <div class="col-sm-4 mb20">
-                        <a href="{{ url('/galleries/galleries/balcony-hotel-service') }}">
+                        <a href="{{ url('/galleries/balcony-hotel-service') }}">
                             <div class="block-contain">
                                 <img src="{{asset('images/Service/Balcony-%20Pool%20(3).jpg')}}" class="img-responsive">
                                 <h4 style="color:#4F2D55">Balcony Hotel- Service</h4>
@@ -49,7 +49,7 @@
                         </a>
                     </div>
                     <div class="col-sm-4 mb20">
-                        <a href="{{ url('/balcony-hotel-accommodation-block-b') }}">
+                        <a href="{{ url('/galleries/balcony-hotel-accommodation-block-b') }}">
                             <div class="block-contain">
                                 <img src="{{asset('images/Rooms/King%20Family%20Suite-%20Balcony%20B%20(4).jpg')}}" class="img-responsive">
                                 <h4 style="color:#4F2D55">Balcony Hotel- Accommodation Block B</h4>

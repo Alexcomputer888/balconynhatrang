@@ -50,6 +50,10 @@ public function restaurant()
     return view('DichVu.DichVu2');
 }
 // Khuyến mãi
+public function KhuyenMai()
+{
+    return view('KhuyenMai.KhuyenMai');
+}
 public function KhuyenMai1()
 {
     return view('KhuyenMai.KhuyenMai1');

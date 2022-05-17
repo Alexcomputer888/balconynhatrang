@@ -50,6 +50,7 @@ Route::get('/meeting-function/Services', [HomeController::class, 'Services']);
 Route::get('/meeting-function/restaurant', [HomeController::class, 'restaurant']);
 // Khuyến mãi
 
+Route::get('/promotions', [HomeController::class, 'KhuyenMai']);
 Route::get('/promotion/eternity-honeymoon-package', [HomeController::class, 'KhuyenMai1']);
 
 // khám phá 

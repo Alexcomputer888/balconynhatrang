@@ -315,6 +315,8 @@ return [
             Sức chứa : 150&nbsp;khách</p>
         ',
     // Khuyến Mãi
+    'KM1Title' => 'ETERNITY HONEYMOON PACKAGE',
+    'KM1Detail' => 'Gói ưu đãi “Eternity Honeymoon” Package chính là món quà mà Khách sạn Balcony Nha Trang gửi tặng để ghi dấu mùa tình yêu lãng mạn của du khách. ',
     'KM1Content' => '
     <p><strong>Gói ưu đãi “Eternity Honeymoon” Package chính là món quà mà Khách sạn Balcony Nha Trang gửi tặng để ghi dấu mùa tình yêu lãng mạn của du khách. Trong không gian lãng mạn của biển xanh, cát trắng, nắng vàng, các cặp đôi sẽ cùng nhau lưu lại những kỷ niệm ngọt ngào khởi đầu cho chặng đường tình yêu phía trước hoặc cùng nhau sống lại những khoảnh khắc yêu thương thuở ban đầu.</strong></p>
 
@@ -589,5 +591,16 @@ return [
         <p style="text-align:center;font-style:italic">Vịnh Cam Ranh Bãi dài</p>
         <p>Vịnh Cam Ranh là nơi có mặt nước biển sâu nhất Đông Nam Á, sóng biển nơi đây rất êm ả so sánh ngang với vịnh Sanfrancisco của Mỹ và vịnh Rio de Janeiro của Brazil. Là địa điểm lý tưởng để tổ chức các loại hình du lịch biển quốc tế như: bơi thuyền, câu cá, lặn biển xem san hô, nghỉ dưỡng, chữa bệnh, leo núi… Xung quanh có núi bao bọc làm cho vùng biển luôn kín gió. Vịnh còn có nhiều bãi tắm hoang sơ tuyệt đẹp, bên cạnh những rặng dừa xanh cao vút, tạo nên nét đặc trưng của miền duyên hải Trung Bộ.</p>
     ',
-
+    //Đặt Phòng 
+    'RESERVATIONS' => 'ĐẶT PHÒNG',
+    'Room&Rate' => 'Phòng & Giá',
+    'FormInformation' => 'Thông tin đăng ký',
+    'Comfirmation' => 'Xác nhận',
+    'ReservationForm' => 'Tìm Phòng',
+    'YOUR SELECTION' => 'THÔNG TIN BẠN ĐÃ CHỌN',
+    'Check In' => 'Ngày đến',
+    'Check Out' => 'Ngày đi',
+    'Adult(s)' =>'Người lớn',
+    'Children' => 'Trẻ em',
+    'Night(s)'=>'Số đêm',
 ];

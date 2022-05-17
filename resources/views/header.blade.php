@@ -48,7 +48,7 @@
         
         <div class="hidden-lg hidden-md hidden-sm define">
             <div class="col-xs-6">
-                <a href="index.html"><img src="{{ asset('images/') }}/Logo/logo-text-o.png" class="bayana-logo"></a>
+                <a href="/"><img src="{{ asset('images/') }}/Logo/logo-text-o.png" class="bayana-logo"></a>
             </div>
             <div class="col-xs-6 sl-lang">
                 
@@ -58,18 +58,18 @@
                         <span class="caret"></span>
                     </button>
                     <ul class="dropdown-menu" aria-labelledby="dd-lang">
-                        <li><a href="index.html">Tiếng Việt</a></li>
-                        <li><a href="index.html">English</a></li>
-                        <li><a href="index.html">简体中文</a></li>
-                        <li><a href="index.html">Русский Язык</a></li>
+                        <li><a href="{{url('lang/vi')}}">Tiếng Việt</a></li>
+                        <li><a href="{{url('lang/en')}}">English</a></li>
+                        <li><a href="{{url('lang/cn')}}">简体中文</a></li>
+                        <li><a href="{{url('lang/ru')}}">Русский Язык</a></li>
                     </ul>
                 </div>
                 <div class="clearfix mb10"></div>
-                <a class="btn-booking">ĐẶT PHÒNG</a>
+                <a class="btn-booking">@lang('messager.RESERVATIONS')</a>
             </div>
             
         </div>
-        <a class="hidden-xs" href="index.html">
+        <a class="hidden-xs" href="/">
             <div class="logo hidden-xs">
                 <span>Balcony Hotel</span><br>
                 <!--<img src="/{{ asset('images/') }}/Logo/logo-star.png" class="logo-star">-->
@@ -90,7 +90,7 @@
             </div>
                 <div class="clearfix mb10"></div>
                 <div>
-                    <a class="btn-booking">ĐẶT PHÒNG</a>
+                    <a class="btn-booking">@lang('messager.RESERVATIONS')</a>
                     <div class="box-reser">
                         <form role="form" class="form-group" action="http://www.balconynhatranghotel.com/RoomAvailable">
                             <div class='define'>
@@ -113,11 +113,12 @@
                                     </div>
                                 </div>
                             </div>
+                            
                             <div class="define">
 
                                 <div class="form-group text-left">
 
-                                    <label class="col-sm-6 col-xs-12 mt5 control-label" style="color: #8C8888;font-weight: 300;">Người lớn</label>
+                                    <label class="col-sm-6 col-xs-12 mt5 control-label" style="color: #8C8888;font-weight: 300;">@lang('messager.Adult(s)')</label>
                                     <div class="input-group col-sm-6  col-xs-12">
                                         <input type="number" class="form-control numberMask" min="1" value="1" name="adult">
 
@@ -127,7 +128,7 @@
                             <div class="define">
                                 <div class="form-group text-left">
 
-                                    <label class="col-sm-6 col-xs-12 mt5 control-label" style="color: #8C8888;font-weight: 300;">Trẻ em</label>
+                                    <label class="col-sm-6 col-xs-12 mt5 control-label" style="color: #8C8888;font-weight: 300;">@lang('messager.Children')</label>
                                     <div class="input-group col-sm-6 col-xs-12">
                                         <input type="number" class="form-control numberMask" min="0" value="0" name="children">
                                     </div>
@@ -135,7 +136,7 @@
 
                             </div>
                             <div class="define">
-                                <button class="btn-booking-s01">ĐẶT PHÒNG</button>
+                                <button class="btn-booking-s01">@lang('messager.RESERVATIONS')</button>
                             </div>
                         </form>
                         
@@ -184,13 +185,13 @@
                                         </li>
 
                                         <li  class="">
-                                            <a href="promotions.html">@lang('messager.SPECIAL OFFERS')</a>
+                                            <a href="/promotions">@lang('messager.SPECIAL OFFERS')</a>
                                             <ul class="ul-nav-child">
                                                             <li><a href="/promotion/eternity-honeymoon-package" title="@lang('messager.KM1')">@lang('messager.KM1')</a></li>
                                               </ul>
                                         </li>
                                         <li>
-                                            <a href="#">@lang('messager.EXPLORE NHA TRANG')</a>
+                                            <a>@lang('messager.EXPLORE NHA TRANG')</a>
                                             <ul class="ul-nav-child">
                                                             <li><a href="/locations/diep-son-nha-trang" title="@lang('messager.KP1')">@lang('messager.KP1')</a></li>
                                                             <li><a href="/locations/10-mon-ngon" title="@lang('messager.KP2')">@lang('messager.KP2')</a></li>
@@ -220,3 +221,4 @@
 
     </div>
 </header>
+
