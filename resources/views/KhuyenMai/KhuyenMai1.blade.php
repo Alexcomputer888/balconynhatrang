@@ -14,7 +14,7 @@
         <div class="container-fluid">
             <div class="row">
                 <div class="container" style="position:relative">
-                    <a class="btn-cus-close" href="../promotions.html"></a>
+                    <a class="btn-cus-close" href="/promotions"></a>
                     <div class="container contents" style="padding-right:0;margin-top:25px">
                         <div class="row">
                             <div class="col-sm-8 news-show">

@@ -42,19 +42,19 @@
                                     <div class="define mb20">
                                         <a href="/locations/diep-son-nha-trang">
                                             <img src="{{asset('images/18300955_1420333341338509_6463312596549226128_n.jpg')}}" class="img-responsive mCS_img_loaded">
-                                            <h5>Điểm du lịch Điệp Sơn - Nha Trang</h5>
+                                            <h5>@lang('messager.KP1Title')</h5>
                                         </a>
                                     </div>
                                     <div class="define mb20">
                                         <a href="/locations/10-mon-ngon">
                                             <img src="{{asset('images/nem-nuong(1).jpg')}}" class="img-responsive mCS_img_loaded">
-                                            <h5>10 MÓN NGON KHÔNG THỂ BỎ QUA KHI ĐẾN NHA TRANG</h5>
+                                            <h5>@lang('messager.KP2Title')</h5>
                                         </a>
                                     </div>
                                     <div class="define mb20">
                                         <a href="/locations/nha-trang-speciality-can-cake">
                                             <img src="{{asset('images/can-cake-nha-trang-12-lifevietnamnet-1436.jpg')}}" class="img-responsive mCS_img_loaded">
-                                            <h5>ĐẶC SẢN NHA TRANG - BÁNH CĂN</h5>
+                                            <h5>@lang('messager.KP3Title')</h5>
                                         </a>
                                     </div>
                                 </div>

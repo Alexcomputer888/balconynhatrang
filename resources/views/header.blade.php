@@ -92,7 +92,7 @@
                 <div>
                     <a class="btn-booking">@lang('messager.RESERVATIONS')</a>
                     <div class="box-reser">
-                        <form role="form" class="form-group" action="http://www.balconynhatranghotel.com/RoomAvailable">
+                        <form role="form" class="form-group" action="/RoomAvailable">
                             <div class='define'>
                                 <div class="form-group">
                                     <div class='input-group date' id="check_in">
@@ -222,3 +222,4 @@
     </div>
 </header>
 
+  <script type="text/javascript" src="{{ asset('js/loader.js') }}"></script>

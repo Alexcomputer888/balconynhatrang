@@ -364,20 +364,22 @@ The room has cozy designed, wooden floor, , fully equipped with modern facilitie
                                             Email: gsales@balconynhatranghotel.com<br>
                                             Web: </strong><a href="http://www.balconynhatranghotel.com/" target="_blank"><strong>www.balconynhatranghotel.com</strong></a></p>',
       // Khám phá 
+      'KP1Title' => 'DIEP SON ISLAND',
       'KP1Content' => '
-      <h3>Điểm du lịch Điệp Sơn - Nha Trang</h3>
+      <h3>DIEP SON ISLAND</h3>
       <div class="news-detail">
-          <p style="margin: 0px 0px 6px; font-family: Helvetica, Arial, sans-serif; color: rgb(29, 33, 41); font-size: 14px;">Điều gì khiến Điệp Sơn trở thành điểm đến hot khi đến Nha Trang?</p>
+                                <p style="margin: 6px 0px; font-family: Helvetica, Arial, sans-serif; color: rgb(29, 33, 41); font-size: 14px;">There are many beautiful, untouched islands in the south-central province of Khanh Hoa, home to the famous Nha Trang Bay.<br>
+One of which is Diep Son Island, located in Van Phong Bay. Diep Son consists of three small, isolated islets.</p>
 
-      <p style="margin: 6px 0px; font-family: Helvetica, Arial, sans-serif; font-size: 14px;"><span style="color: rgb(29, 33, 41);">Đi bộ xuyên qua biển là điều mà có lẽ tưởng chừng như không thể. Nhưng ở </span><font color="#4267b2">Điệp Sơn</font><font color="#1d2129">&nbsp;(Hòn Bịp) bạn có thể hòa mình vào với thiên nhiên, dưới chân là bãi cát trắng mịn màng, xung quanh là đại dương bao la, trên đầu là nắng, gió. Bạn có thể thỏa thích ngắm nhìn những đàn cá nhỏ tung tăng bơi lội hai bên, thử cảm giác đi bộ dưới nước trong lúc từng đàn cá bơi qua chân.</font></p>
+<p style="margin: 6px 0px; font-family: Helvetica, Arial, sans-serif; color: rgb(29, 33, 41); font-size: 14px;">What is special about Diep Son is an winding path that is half submerged in the crystal clear jade water, connecting two islets.<br>
+The footpath is around 1.2 meters wide and nearly half a meter below the water surface.</p>
 
-      <p style="margin: 6px 0px; font-family: Helvetica, Arial, sans-serif; color: rgb(29, 33, 41); font-size: 14px;">Đường giao thông đi ra đảo khá thuận ti<span class="text_exposed_show" style="display: inline; font-family: inherit;">ện. Từ Hà Nội hay TP HCM, bạn có thể đi máy bay đến Nha Trang chỉ mất khoảng hơn 1 tiếng. Hoặc bạn chọn xe khách hay tàu hỏa để thuận tiện ngắm cảnh. Sau đó từ Nha Trang, bạn bắt xe bus đi ra cảng Vạn Giã (huyện Vạn Ninh, tỉnh Khánh Hòa). Thời gian di chuyển khoảng 1 tiếng, rồi thuê tàu, ca nô ra Điệp Sơn (khoảng 20 phút).</span></p>
+<p style="margin: 6px 0px; font-family: Helvetica, Arial, sans-serif; color: rgb(29, 33, 41); font-size: 14px;">To get here, tourists can take a boat on Van Gia Wharf in Van Gia Town. The trip takes around one hour.</p>
 
-      <div class="text_exposed_show" style="display: inline; font-family: Helvetica, Arial, sans-serif; color: rgb(29, 33, 41); font-size: 14px;">
-      <p style="margin: 0px 0px 6px; font-family: inherit;">Hãy lưu lại những thông tin này cho kì nghỉ của mình tại Nha Trang nhé !</p>
-      </div>
+<p style="margin: 6px 0px; font-family: Helvetica, Arial, sans-serif; color: rgb(29, 33, 41); font-size: 14px;">Save this information for your holiday in Nha Trang !&nbsp;</p>
 
-      </div>',
+                            </div>',
+                            'KP2Title' => '10 DELICIOU DISH YOU CAN\'T MISS WHEN COMING TO NHA TRANG',
 'KP2Content' =>'
       <div class="col-sm-9 news-show">
       <h3>10 MÓN NGON KHÔNG THỂ BỎ QUA KHI ĐẾN NHA TRANG</h3>
@@ -469,106 +471,107 @@ The room has cozy designed, wooden floor, , fully equipped with modern facilitie
 
                   </div>
 ',
-'KP3Title' => 'ĐẶC SẢN NHA TRANG - BÁNH CĂN',
+'KP3Title' => 'NHA TRANG SPECIALITY - BÁNH CĂN ("CAN" CAKE)',
 'KP3Content1' =>'
-      <p>Bánh Căn được xem là món ăn địa phương tuy đơn giản nhưng khá ngon, có thể dùng vào buổi sáng và buổi tối. Nếu bạn yêu thích khám phá ẩm thực thì&nbsp;Bánh Căn là một trong những món không nên bỏ lỡ khi đến với thành phố biển Nha Trang. Và chắc chắn rằng sau khi thưởng thức, bạn sẽ không thể&nbsp;quên được vị ngon của&nbsp;món bánh độc đáo&nbsp;này</p>
-      <p>Bánh Căn là món ăn khá phổ biến ở khu vực Miền Trung&nbsp;Việt Nam. Nhưng ở&nbsp;mỗi địa phương sẽ có cách chế biến khác nhau, và ở&nbsp;thành phố biển Nha Trang thì Bánh Căn cũng mang một&nbsp;nét đặc trưng riêng.&nbsp;</p>
+      <p>Bánh Căn ("Can" cake) is a simple and delicious healthy local food that <span style="line-height: 20.8px;">can be eaten for both breakfast or dinner.&nbsp;</span>So if you enjoy eating local specialities, “Can” cake should be in your must-try list. Probably you will not forget its cute shape as well as its amazing taste.</p>
+      <p>“Can” cake is a fairly common food in Central Vietnam. But every place has its own recipe for the dish, and in a coastal city like Nha Trang, it is completely different.&nbsp;</p>
   ',
   'KP3Content2' =>'
-  Bánh Căn làm từ loại một bột hơi sền sệt – hỗn hợp từ bột gạo xay pha với nước và sau đó được đúc bằng lò đất nung có sẵn 10 (hoặc hơn 10) khuôn bánh bên trên. Khi chế biến, người làm sẽ đổ bột này vào từng khuôn và đậy lại bằng 1 nắp nhỏ cho bánh chín dần.
+  <p>"Can" cakes&nbsp;are a small round cakes make of rice which is ground and mixed with water into a runny white batter. Over a hot brazier, there is a special mold that has about 10 or more round holes on its surface. Then “Can” cake maker will pour rice batter into the holes and cover them with little pottery lids.</p>
   ',
   'KP3Content3' =>'
-  Tùy theo khẩu vị, có thể cho thêm vào bột trứng gà hoặc trứng vịt. Hay đặc biệt hơn là thêm mực hoặc tôm tươi tại địa phương.
+  <p>On request, chicken or quail eggs can be added to the batter. Especially, it would be tastier if you chose to add squid or shrimp because seafood is always fresh in Nha Trang.</p>
   ',
   'KP3Content4' =>'
-  Bánh Căn khi thưởng thức sẽ được xếp ra dĩa với mỗi dĩa gồm 4 bánh, ăn kèm hoặc thịt xíu mại.
+  <p>A serving of "Can" cake has four small cakes served with<span style="line-height: 1.6em;">&nbsp;two kinds of sauce: “Mam Nem” (fermented fish sauce) and “Mam Nuoc” (fish sauce mixed with mouthwatering lemon juice, garlic, sugar and red pepper). You can choose one of them, then add shredded green mango, stir fried spring onion, chill into the sauce. Sometimes minced pork balls are served on the side.</span></p>
   ',
   'KP3Content5' =>'
-  Với sự kết hợp hương vị độc đáo, Bánh Căn là món ăn không thể quên nếu đã từng một lần nếm thử. Và nếu chưa từng thử qua thì đừng quên món ăn đặc biệt này khi đến Nha Trang nhé! 
+  Definitely, the combination of all ingredients will make you crave for more cakes. So if you have a chance to come to Nha Trang, don’t hesitate to give it a try. 
   ',
 
-'KP4Title' => 'ĐẶC SẢN NHA TRANG - BÁNH CĂN',
+'KP4Title' => 'Tourist Attractions at Nha Trang City',
 'KP4Content1' =>'
-  <p><strong>Nhà thờ Chánh tòa Nha Trang</strong></p>
-  <p>Nhà thờ Chánh Tòa Nha Trang là nhà thờ lớn nhất của thành phố Nha Trang, được xây dựng năm 1933 với đậm nét kiến trúc Gothic của Pháp và trang trí bằng các cửa sổ kính nhiều màu sắc. Nhà thờ được bao quanh bởi nhiều pho tượng các vị thánh và 4.000 ngôi mộ.&nbsp;Điểm độc đáo đó là nhà thờ chỉ được xây dựng bằng các khối xi măng đơn giản nhưng vẫn thanh lịch và hùng vĩ.<br>
-  <em>Địa chỉ: Nằm ngay vòng xoay giữa đường Thái Nguyên và Nguyễn Trãi.<br>
-  Đi từ Khách sạn Balcony Nha Trang: 8&nbsp;phút</em></p>
+  <p><strong>Nha Trang Cathedral</strong></p>
+  <p>The Nha Trang Cathedral is the largest church in the city of Nha Trang, built in the year 1933 in French Gothic style, complete with stained-glass windows. The calendral is encircled with the numberous statues of saints as well as 4,000 tombstones. It’s a surprisingly elegant building given that it was constructed of simple cement blocks<br>
+  <em>Address: Located at the roundabout on Thai Nguyen Street and Nguyen Trai Street.<br>
+  From Balcony Nha Trang Hotel: 8&nbsp;minutes</em></p>
 ',
 'KP4Content2' =>'
-  <p><strong style="line-height: 1.6em;">Bảo tàng Yersin</strong></p>
-  <p>Bảo tàng nổi tiếng nhất Nha Trang chính là Bảo tàng Alexandre Yersin, nằm bên trong Viện Pasteur. Bảo&nbsp;tàng là nơi tưởng niệm cuộc đời làm việc cống hiến của một trong những nhà khoa học nổi tiếng nhất khu vực thời bấy giờ- người đã giúp chữa trị nhiều dịch bệnh trong những năm cuối thế kỷ 19, đầu thế kỷ 20.<br>
-  <em>Địa chỉ: 10 Trần Phú<br>
-  Đi từ Khách sạn Balcony Nha Trang: 7&nbsp;phút</em></p>
+  <p><strong>Yersin Museum</strong></p>
+  <p>The most famous museum in Nha Trang is the Alexandre Yersin Museum which is located within the Pasteur Institute. This museum commemorates the life long work of one of the area’s most famous scientists who helped to cure diseases in the area during the late nineteenth and early twentieth centuries.<br>
+  <em>Address: 10 Tran Phu Street<br>
+  From Balcony Nha Trang Hotel: 7&nbsp;minutes</em></p>
 ',
 'KP4Content3' =>'
-  <p><strong style="line-height: 1.6em;">Chợ Đầm</strong></p>
-  <p>Chợ Đầm là một công trình kiến trúc đẹp, tọa lạc ngay vị trí trung tâm thành phố du lịch Nha Trang. Tại đây bán rất nhiều đồ lưu niệm và sản vật địa phương. Ngoài ra, ở đây cũng tập trung hải sản rất phong phú, đặc biệt là hải sản khô.<br>
-  <em>Địa chỉ: đường Phan Bội Châu<br>
-  Đi từ Khách sạn Balcony Nha Trang: 9&nbsp;phút</em></p>
+  <p><strong>Dam Market</strong></p>
+  <p>Dam Market a beautiful building, located right in the heart of Nha Trang City. The market sells a lot of souvenirs and local products. It also is plentiful with seafood, especially dried seafood.<br>
+  <em>Address: Phan Boi Chau Street<br>
+  From Balcony Nha Trang Hotel: 9&nbsp;minutes</em></p>
 ',
 'KP4Content4' =>'
-  <p><strong style="line-height: 1.6em;">Chùa Long Sơn</strong></p>
-  <p>Được khởi công xây dựng vào năm 1886, sau đó bị sập sau một cơn bão, chùa Long Sơn đã trải qua nhiều lần trùng tu trên nền đất hiện đại từ những năm 1900 cho đến nay. Ngôi chùa nổi tiếng nhất Nha Trang tọa lạc gần đồi Trại Thủy với 152 bậc tam cấp dẫn từ chính điện lên đỉnh. Nổi bật trong lối kiến trúc Phật giáo của chùa là tượng Phật tổ nhập Niết bàn tại bậc thứ 44, quả đại hồng chung nặng 1.500 kg và bức Kim Thân Phật tổ ngồi thuyết pháp ở bậc cuối cùng.<br>
-  <em>Địa chỉ: Đường Phật Học<br>
-  Đi từ Khách sạn Balcony Nha Trang: 11&nbsp;phút</em></p>
+<p><strong>Long Son Pagoda and White Buddha</strong></p>
+<p>Initially constructed in 1886 and soon destroyed by a cyclone, Long Son Pagoda was rebuilt around 1900 at its current location. A road from Long Son leads to the Hai Duc Pagoda at the top of the Trai Thuy hill, where a 24-meter white buddha (Kim Than Phat To) sits atop 152 steps. Another interesting sight is the statue of Phat To Nhap Niet Ban, which is the temple’s lying Buddha (44th step) and a great bell weighing 1,500 kg.&nbsp;<br>
+<em>Address: Phat Hoc Street<br>
+From Balcony Nha Trang Hotel: 11&nbsp;minutes</em></p>
 ',
 'KP4Content5' =>'
-  <p><strong style="line-height: 1.6em;">Tháp Bà Ponagar</strong></p>
-  <p>Cách trung tâm thành phố khoảng 2 km về phía Bắc và nằm trên đỉnh một ngọn đồi nhỏ cao khoảng 10-12 mét so với mực nước biển, Khu di tích Tháp Bà Ponagar Nha Trang được xây dựng từ thế kỷ thứ&nbsp;VII sau Công nguyên để thờ nữ thần Yan Po Nagar- người tạo dựng sản sinh gỗ quý, cây cối và lúa gạo trong tín ngưỡng của người Champa cổ.<br>
-  Cho đến nay kỹ thuật xây dựng Tháp Bà Ponagar vẫn là điều bí ẩn, chưa ai hiểu được người Chăm đã làm cách nào để những viên gạch với kích cỡ 20x20cm cứ chồng khít lên nhau mà không cần bất kỳ một chất kết dính nào. Và đó là nét độc đáo khiến du khách thêm phần yêu thích ngôi đền tháp này.<br>
-  <em>Địa chỉ: Gần cầu Xóm Bóng<br>
-  Đi từ Khách sạn Balcony Nha Trang: 12 phút</em></p>
+<p><strong>Ponagar Cham Towers</strong></p>
+<p>Situated in the north on a 10 - 12m high hill looking out over the sea, Ponagar is a Cham temple dedicated to the goddess Yan Po Nagar, Mother of the Kingdom, and was built around mid-to-late 8th century A.D.&nbsp;<br>
+Until now, the construction technique of Ponagar Tower is still a question, no one knows how the Cham people could make the 20x20cm bricks stay connected without any adhesive. And it is a unique point that makes the visitors be interested in this Tower.<br>
+<em>Address: Near Xam Bong Bridge<br>
+From Balcony Nha Trang Hotel: 12 minutes</em></p>
 ',
 'KP4Content6' =>'
-  <p><strong style="line-height: 1.6em;">Chợ Đêm Nha Trang ( Phố đi bộ)</strong></p>
-  <p>“Phố đi bộ” là khu chợ đêm lớn nhất tại thành phố biển Nha Trang hiện nay và là nơi thả bộ, mua sắm, khám phá nét đẹp văn hóa bản địa không thể thiếu trong hành trình của lữ khách.<br>
-  <em>Địa chỉ: Nằm cạnh Trung tâm hội nghị, 46 Trần Phú<br>
-  Đi từ Khách sạn Balcony Nha Trang: 4 phút&nbsp;</em></p>
+<p><strong>Night Market Nha Trang (Walking Street)</strong></p>
+<p>Walking street is well-known as the biggest night market at Nha Trang City and this is a place for tourists to promenade, do shopping, explore the beautiful of local people\'s culture which is considered as a "must-do" in tourists\'s intinerary<br>
+<em>Address: Near Convention Center, 46 Tran Phu Street<br>
+From Balcony Nha Trang Hotel: 4 minutes</em></p>
 ',
 'KP4Content7' =>'
-  <p><strong style="line-height: 1.6em;">Bảo tàng Hải dương học</strong></p>
-  <p>Mở cửa năm 1922, Bảo tàng Hải dương học lưu giữ hơn 20.000 mẫu vật sinh vật biển nhiệt đới. Đây là địa điểm du lịch không thể bỏ qua đối với những du khách yêu biển, yêu khám phá đời sống sinh vật biển đa dạng trong đại dương mênh mông, huyền bí.&nbsp;Điểm nhấn đặc biệt của bảo tàng đó là bộ xương cá voi lưng gù dài gần 18 mét (khai quật tại Hà Nam năm 1994), một mẫu vật tự nhiên vô giá.<br>
-  <em>Địa chỉ: 1 Cầu Đá<br>
-  Đi từ Khách sạn Balcony Nha Trang: 3 phút</em></p>
+  <p><strong>National Oceanographic Museum</strong></p>
+  <p>Opened in 1922, National Oceanographic Institute has held over 20,000 specimens of tropical marine creatures. This is a must destination for those people who love the sea and explore sea creatures’ lives which is very diverse and abundant in the immense and mysterious ocean.<br>
+The most impressive of the museum is the humpback whale skeleton is nearly 18 meters (excavated in Ha Nam in 1994), a natural history artifacts invaluable.<br>
+<em>Address: 1 Cau Da Street<br>
+From Balcony Nha Trang Hotel: 3 minutes</em></p>
 ',
 'KP4Content8' =>'
-  <p><strong><span style="line-height: 1.6em;">Hòn Chồng</span></strong></p>
-  <p>Hòn Chồng là một danh thắng đẹp và độc đáo với nhiều tảng đá được chồng lên nhau một cách tự nhiên, đặc biệt trên tảng đá to nhất tại vị trí cao nhất có in dấu một bàn tay khổng lồ hằn sâu trong đá. Liên quan đến mỏm đá này, người dân miền biển truyền miệng nhau câu chuyện về ông khổng lồ một người khổng lồ đến xứ này ngoạn cảnh, gặp những nàng tiên đang tắm, ông dừng lại say sưa ngắm và vô tình trượt chân ngã, ông vội bám tay vào núi khiến sườn núi sụp đổ, đá văng xuống để lại vết tay ông hằn trên đá.<br>
-  <em>Địa chỉ: Gần đường Phạm Văn Đồng, phường Vĩnh Phước<br>
-  Đi từ Khách sạn Balcony Nha Trang: 15 phút</em></p>
+  <p><strong>Hon Chong Promontory</strong></p>
+  <p>Hon Chong Promontory is a beautiful spot with many rocks overlapping each other naturally, especially there remans a hand-shaped on a huge stone of the highest cliff. Local legend has it that the print belongs to giant who came to this area for sightseeing. While looking passionately at the fairies, he slipped and hung on a mountain. This caused the mountain side to collapse, leaving a lot of rocks and a 5-finger-shaped dent on a large rock.&nbsp;<br>
+  <em>Address: Off Pham Van Dong Street and Vinh Phuoc Street.<br>
+  From Balcony Nha Trang Hotel: 15 minutes</em></p>
 ',
 'KP4Content9' =>'
   <p><strong>Sailing Club</strong></p>
-  <p>Được mở cửa từ năm 1994, Sailing Club được xem là điểm vui chơi về đêm cho người dân địa phương, cũng như du khách quốc tế.&nbsp;Tại Sailing Club có tất cả những gì du khách cần như vị trí tuyệt đẹp ngay trên bờ biển Nha Trang, quầy bar ngoài trời, sàn nhảy, bàn billard, nhạc sôi động, thức ăn ngon và nhiều món thức uống độc đáo.<br>
-  <em>Địa chỉ: 72 – 74 Trần Phú<br>
-  Đi từ Khách sạn&nbsp;Balcony Nha Trang: 3 phút</em></p>
+  <p>Established in 1994, Sailing Club is considered one of the hot spots in Nha Trang for locals and foreigners when it comes to nightlife.&nbsp;Beach front, open air bar, large dance floor, billard table, nice music, delicious food and unique drink are available at Sailing Club.<br>
+  <em>Address: 72-74 Tran Phu Street<br>
+  From Balcony Nha Trang Hotel: 3 minutes</em></p>
 ',
 
-'KP5Title' =>'BÒ NƯỚNG LẠC CẢNH',
+'KP5Title' =>'LAC CANH BBQ BEEF RESTAURANT',
 'KP5Content1' =>'
-<p style="text-align:justify;line-height:15.6pt">Quán Lạc Cảnh nằm trên đường Nguyễn Bỉnh Khiêm ra đời từ lâu, cách đây khoảng 40 năm, nhưng hay ở chỗ vẫn luôn duy trì dáng vẻ đặc trưng vốn có của mình, dẫu cho thành phố Nha Trang có nhiều thay đổi. Đây là nhà hàng thoáng đãng, bạn sẽ hoàn toàn được trải nghiệm món ăn địa phương với người dân địa phương tại nơi đây.</p>
+<p>In the tourist guide books, Lac Canh BBQ Beef Restaurant is one of restaurants that tourist cannot miss when travelling to Nha Trang City because of its long-standing and well-known brand. If you are in Nha Trang and you are not vegetarian, come to Lac Canh Beef Restaurant to enjoy this delicious grilling beef. Based on the unique recipe is handed down from generation to generation, and only to the specific members of the restaurant owner’s family, Lac Canh BBQ Beef Restaurant had made not only its reputation but also a worth eating place for every tourist.</p>
 ',
 'KP5Content2' =>'
-  <p style="text-align:justify;line-height:15.6pt">Quán Lạc Cảnh nằm trên đường Nguyễn Bỉnh Khiêm ra đời từ lâu, cách đây khoảng 40 năm, nhưng hay ở chỗ vẫn luôn duy trì dáng vẻ đặc trưng vốn có của mình, dẫu cho thành phố Nha Trang có nhiều thay đổi. Đây là nhà hàng thoáng đãng, bạn sẽ hoàn toàn được trải nghiệm món ăn địa phương với người dân địa phương tại nơi đây.</p>
+<p>Located in Nguyen Binh Khiem Street, Lac Canh Restaurant has been operating for over 40 years, but the outstanding point is that it always keeps its own feature although Nha Trang City rapidly changes. This is a great open-air restaurant. Coming to this place, you will totally have a local experience when eating a local speciality with full of the local people here.</p>
 ',
 'KP5Content3' =>'
-  <p>Có 2 cách bạn có thể chọn để thưởng thức món bò:</p>
-  <p>+ Cách thứ nhất: bò được nướng sẵn cho bạn.</p>
-  <p>+ Cách thứ hai là có 1 lò nướng được đặt trên bàn, những miếng thịt bò được ướp kỹ lưỡng rồi khách tự nướng trên than hồng, tự kiểm soát độ tái chin như mình mong muốn, thế nhưng dù thế nào thịt bò cũng vẫn cứ mềm.</p>
+<p>There are two ways that you can choose to eat the beef:<br>
++ One is well-done beef. It means the beef has been grilled before serving.&nbsp;<br>
++ Another one is that you will have the beef on a little clay pot BBQ at your table, free to grill and enjoy the beef in your own way, but the beef is still tender as its way.&nbsp;</p>
 ',
 'KP5Content4' =>'
-<p style="line-height: 15.6pt; text-align: center;"><em>Bò được nướng sẵn</em></p>
+<p style="text-align: center;"><em>Well-done beef</em></p>
 ',
 'KP5Content5' =>'
-<p style="text-align: center;"><em>Bò được ướp sẵn để bạn tự nướng</em></p>
+<p style="text-align: center;"><em>Beef before being grilled</em></p>
 ',
 'KP5Content6' =>'
- <p style="line-height:15.6pt">Bò nướng Lạc Cảnh cực kỳ mềm, ngọt thịt nên không mất nhiều thời gian để nướng. Ngoài ra, bạn còn được thưởng thức rau xanh và bánh mì đi kèm với món bò. Nếu bạn không thích thịt bò, Quán còn có nhiều món ngon, hấp dẫn khác như ếch xào, tôm hỏa tiễn, gà xối mỡ…</p>
+<p>The beef is tender, well marinated and cubed so it does not take long time to grill. Besides, you also have tasty and flavorful fresh vegetable and bread with it. Note that there are a few interesting specialities not on the English menu including spicy stir-fried frog, spring roll shrimp, fried chicken….so don’t worry if you are not keen on the beef.</p>
 ',
 'KP5Content7' =>'
-  <p style="line-height:15.6pt">Khi bạn đã đến đây 1 lần, chắc chắn bạn sẽ muốn đến thêm nhiều lần khác.</p>
-  <p style="line-height:15.6pt">Địa chỉ quán: 44 Nguyễn Bỉnh Khiêm, Nha Trang, Khánh Hòa (T<span style="line-height: 15.6pt;">hời gian phục vụ: Từ 09h tới 21h30)</span></p>
-  <p style="line-height:15.6pt">* Đi từ khách sạn Balcony Nha Trang: 10 phút</p>
+<p>When you come there once, definitely you would come much more times.</p>
+<p>Address: 44 Nguyen Binh Khiem Street, Nha Trang, Khanh Hoa (Serving time: from 09:00 to 21:30)</p>
+<p>* From Balcony Nha Trang Hotel: 10 minutes</p>
 ',
 
 'KP6Title' =>'Vịnh Cam Ranh',
@@ -603,6 +606,8 @@ The room has cozy designed, wooden floor, , fully equipped with modern facilitie
 'Check Out' => 'Check Out',
 'Adult(s)' =>'Adult(s)',
 'Children' => 'Children',
-
+'Night(s)'=>'Night(s)',
+'Continue'=>'Continue',
+'Click to check availability'=>'Click to check availability',
 
 ];

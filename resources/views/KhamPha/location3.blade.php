@@ -47,13 +47,13 @@
                                 <div class="define mb20">
                                     <a href="/locations/diep-son-nha-trang">
                                         <img src="{{asset('images/18300955_1420333341338509_6463312596549226128_n.jpg')}}" class="img-responsive mCS_img_loaded">
-                                        <h5>Điểm du lịch Điệp Sơn - Nha Trang</h5>
+                                        <h5>@lang('messager.KP1Title')</h5>
                                     </a>
                                 </div>
                                 <div class="define mb20">
                                     <a href="/locations/tourist-attractions-nha-trang">
                                         <img src="{{asset('images/Locations/Nha-tho-da-nha-trang.jpg')}}" class="img-responsive mCS_img_loaded">
-                                        <h5>Các điểm du lịch nổi bật Nha Trang</h5>
+                                        <h5>@lang('messager.KP4Title')</h5>
                                     </a>
                                 </div>
                             </div>

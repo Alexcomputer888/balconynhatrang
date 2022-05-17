@@ -63,14 +63,16 @@ Route::get('/locations/vinh-cam-ranh', [HomeController::class, 'VinhCamRanh']);
 Route::get('/locations/bai-dai', [HomeController::class, 'BaiDai']);
 // Thư viện hình ảnh
 Route::get('/gallery', [HomeController::class, 'gallery']);
-
 Route::get('/galleries/balcony-hotel-reception', [HomeController::class, 'gallery1']);
 Route::get('/galleries/balcony-hotel-restaurant', [HomeController::class, 'gallery2']);
 Route::get('/galleries/balcony-hotel-service', [HomeController::class, 'gallery3']);
 Route::get('/galleries/balcony-hotel-accommodation-block-a', [HomeController::class, 'gallery4']);
 Route::get('/galleries/balcony-hotel-accommodation-block-b', [HomeController::class, 'gallery5']);
+// Đặt phòng
 
-
+Route::get('/RoomAvailable', function () {
+    return view('DatPhong.DatPhong1');
+});
 // // Dịch vụ
 // Services
 // restaurant
