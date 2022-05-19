@@ -30,7 +30,7 @@
 
 
     <div class="m-t-10">
-        <div class="col-sm-4 col-xs-12  m-b-10 p-l-0">
+        <div class="col-sm-12 col-xs-12  m-b-10 p-l-0">
                        
 <input type="hidden" value="0" id="checkSubmit">
 <input type="hidden" value="vi-VN" id="culture">
@@ -70,50 +70,62 @@
         });  
     })
 </script>
-<?php
-            $checkin = $_GET['checkin'];
-            $checkout = $_GET['checkout'];
-            $adult =  $_GET['adult'];   
-            $children = $_GET['children'];  
-            $checkin1 =  $checkin;
-            $date1 = str_replace('/', '-', $checkin1);
-            $checkout2 =  $checkout;
-            $date2 = str_replace('/', '-', $checkout2);
-            $first_date = strtotime(date('Y-m-d', strtotime($date1)));
-            $second_date = strtotime(date('Y-m-d', strtotime($date2)));
-            $datediff = abs($first_date - $second_date);
-            $night = floor($datediff / (60*60*24));
- ?>
-<form role="form" action="/RoomAvailable/">
+
+@if(session()->has('message'))
+        <div class="alert alert-success">
+    {{ session()->get('message') }}
+</div>
+@endif
+<form action="{{ route('send.email') }}" class="contact100-form validate-form" method="post">
+     @csrf
     <input id="HotelId" name="HotelId" type="hidden" value="4">
     <div class="booking-form">
         <div class="header">
             @lang('messager.ReservationForm')
         </div>
-        <div class="form-group col-sm-6 col-xs-12">
+        <div class="form-group col-sm-3 col-xs-12">
             <label> @lang('messager.Check In') </label>
            
             <div class="input-group" id="Scheck_in">
-                <input type="hidden" id="checkin-hidden" value="{{$checkin}}">
-                <input type="text" class="form-control " name="checkin" value="{{$checkin}}">
+                
+                <input type="text" class="form-control " name="checkin">
                 <div class="input-group-addon "><i class="fa fa-calendar"></i></div>
             </div>
         </div>
-        <div class="form-group col-sm-6 col-xs-12">
+        <div class="form-group col-sm-3 col-xs-12">
             <label> @lang('messager.Check Out')</label>
             <div class="input-group " id="Scheck_out">
-                <input type="hidden" id="checkout-hidden" value="{{$checkout}}">
-                <input type="text" class="form-control" name="checkout" value="{{$checkout}}">
+                <input type="text" class="form-control" name="checkout" >
                 <div class="input-group-addon"><i class="fa fa-calendar"></i></div>
             </div>
         </div>
-        <div class="form-group col-sm-6 col-xs-12">
+        <div class="form-group col-sm-3 col-xs-12">
             <label class="control-label">@lang('messager.Adult(s)')</label>
-            <input class="form-control numberMask" data-val="true" data-val-number="The field Adult must be a number." data-val-required="The Adult field is required." id="Adult" min="1" name="adult" type="number" value="1">
+            <input class="form-control numberMask" data-val="true" data-val-number="The field Adult must be a number." data-val-required="The Adult field is required." id="Adult" min="1" name="Adult" type="number" value="1">
         </div>
-        <div class="form-group col-sm-6 col-xs-12">
+        <div class="form-group col-sm-3 col-xs-12">
             <label class="control-label">@lang('messager.Children')</label>
-            <input class="form-control numberMask" data-val="true" data-val-number="The field Children must be a number." data-val-required="The Children field is required." id="Children" min="0" name="children" type="number" value="0">
+            <input class="form-control numberMask" data-val="true" data-val-number="The field Children must be a number." data-val-required="The Children field is required." min="0" name="Children" type="number" value="0">
+        </div>
+        
+        <div class="form-group col-sm-6 col-xs-12">
+            <label class="control-label">Mail</label>
+            <input class="form-control" name="email" type="email" placeholder="Mail">
+        </div>
+        <div class="form-group col-sm-3 col-xs-12">
+            <label class="control-label">Name</label>
+            <input class="form-control" name="name" type="text" placeholder="Tên">
+        </div>
+        <div class="form-group col-sm-3 col-xs-12">
+            <label class="control-label">phone</label>
+            <input class="form-control" name="email" type="text" placeholder="phone">
+        </div>
+        
+       
+        
+        <div class="form-group col-sm-12 col-xs-12">
+            <label class="control-label">Ghi chú</label>
+            <input class="form-control"  name="content" type="text" placeholder="content">
         </div>
         <button class="btn btn-success m-l-15 btn-checkbooking mb15" type="submit">@lang('messager.Continue')</button>
         <p>(@lang('messager.Click to check availability'))</p>
@@ -121,33 +133,7 @@
  
 </form>
 <div class="clearfix mb30"></div>
-<div class="booking-form">
-    <h4 class="text-center">THÔNG TIN BẠN ĐÃ CHỌN</h4>
-    <table class="booking-info mb20">
-        <tbody><tr>
-            <td>@lang('messager.Check In')</td>
-            <td>
-            {{$checkin}}
-        </td>
-        </tr>
-        <tr>
-            <td>@lang('messager.Check Out')</td>
-            <td>{{$checkout}}</td>
-        </tr>
-        <tr>
-            <td>@lang('messager.Adult(s)')</td>
-            <td>{{$adult}}</td>
-        </tr>
-        <tr>
-            <td>@lang('messager.Children')</td>
-            <td>{{$children}}</td>
-        </tr>
-        <tr>
-            <td>@lang('messager.Night(s)')</td>
-            <td>{{ $night}}</td>
-        </tr>
-    </tbody></table>
-</div>
+
 <style>
     table.booking-info{
         width:100%;
@@ -170,7 +156,7 @@
         </div>
 
         
-<div class="col-sm-8 p-r-0 m-r-0" id="booking-room">
+<!-- <div class="col-sm-8 p-r-0 m-r-0" id="booking-room">
     <form action="/summary/index" method="get" id="formSubmitRoomAvailable" onsubmit="return reservation.validateBeforeSubmit();">
 
         <div style="display: none">
@@ -185,7 +171,7 @@
 
     </form>
 
-</div>
+</div> -->
 <input type="hidden" id="noticeRoomTitle" value="CẢNH BÁO">
 <input type="hidden" id="noticeRoomContent" value="Số lượng người cho phép đã vượt quá số lượng phòng ! Xin vui lòng chọn lại">
 <input type="hidden" value="" id="RoomIds">

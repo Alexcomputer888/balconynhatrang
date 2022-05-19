@@ -557,4 +557,8 @@ Bún chả cá Nha Trang được nhắc đến như một món ngon nhất đ�
     'Night(s)' => 'Số đêm',
     'Click to check availability' => 'Nhấn vào để kiểm tra phòng của bạn',
     'Continue'=>'Tiếp tục',
+    'Name' => 'Họ tên',
+    'Phone' => 'Số điện thoại',
+    'Content' => 'Ghi chú',
+    'Confirmation' => 'Xác nhận'
 ];

@@ -609,5 +609,9 @@ From Balcony Nha Trang Hotel: 3 minutes</em></p>
 'Night(s)'=>'Night(s)',
 'Continue'=>'Continue',
 'Click to check availability'=>'Click to check availability',
-
+'Continue'=>'Continue',
+'Name' => 'Full name',
+'Phone' => 'Phone',
+'Content' => 'Content',
+'Confirmation' => 'Confirmation',
 ];

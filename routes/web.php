@@ -28,6 +28,8 @@ Route::get('/lang/{locale}', function ($locale) {
  
     //
 });
+Route::get('/email', [HomeController::class, 'create']);
+Route::post('/email', [HomeController::class, 'sendEmail'])->name('send.email');
 Route::get('/home/overview', function () {
     return view('GioiThieu.GioiThieu');
 });
